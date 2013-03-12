@@ -16,9 +16,13 @@
 		00BAE65A0E7ED9C10018A608 /* RenderingWorldApp.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 00BAE6590E7ED9C10018A608 /* RenderingWorldApp.cpp */; };
 		00CCAF15116A9FEE008396D5 /* CinderApp.icns in Resources */ = {isa = PBXBuildFile; fileRef = 00CCAF14116A9FEE008396D5 /* CinderApp.icns */; };
 		0F0F54A616EE53B900A96F38 /* WorldMesh.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 0F0F54A416EE53B900A96F38 /* WorldMesh.cpp */; };
-		0F0F54A816EE6FB900A96F38 /* grass.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0F0F54A716EE6FB900A96F38 /* grass.jpg */; };
 		0F0F54AE16EEA35000A96F38 /* grass.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0F0F54AC16EEA35000A96F38 /* grass.jpg */; };
 		0F0F54B116EEA3A500A96F38 /* vertex.glsl in Resources */ = {isa = PBXBuildFile; fileRef = 0F0F54B016EEA3A500A96F38 /* vertex.glsl */; };
+		0F0F54B316EEA8A400A96F38 /* frag.glsl in Resources */ = {isa = PBXBuildFile; fileRef = 0F0F54B216EEA8A400A96F38 /* frag.glsl */; };
+		0F0F54B616EEBA8000A96F38 /* HeightMap.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 0F0F54B416EEBA8000A96F38 /* HeightMap.cpp */; };
+		0F0F54B816EECE2700A96F38 /* rock.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 0F0F54B716EECE2700A96F38 /* rock.JPG */; };
+		0F0F54BC16EED0A900A96F38 /* grass.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0F0F54BA16EED0A900A96F38 /* grass.jpg */; };
+		0F0F54BD16EED0A900A96F38 /* rock.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 0F0F54BB16EED0A900A96F38 /* rock.JPG */; };
 		5323E6B20EAFCA74003A9687 /* CoreVideo.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5323E6B10EAFCA74003A9687 /* CoreVideo.framework */; };
 		5323E6B60EAFCA7E003A9687 /* QTKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5323E6B50EAFCA7E003A9687 /* QTKit.framework */; };
 		53E3CDFC0E86099300238D2B /* Carbon.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 53E3CDFB0E86099300238D2B /* Carbon.framework */; };
@@ -36,9 +40,14 @@
 		00CCAF14116A9FEE008396D5 /* CinderApp.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; path = CinderApp.icns; sourceTree = SOURCE_ROOT; };
 		0F0F54A416EE53B900A96F38 /* WorldMesh.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = WorldMesh.cpp; path = ../src/WorldMesh.cpp; sourceTree = "<group>"; };
 		0F0F54A516EE53B900A96F38 /* WorldMesh.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = WorldMesh.h; path = ../src/WorldMesh.h; sourceTree = "<group>"; };
-		0F0F54A716EE6FB900A96F38 /* grass.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = grass.jpg; path = ../resources/grass.jpg; sourceTree = "<group>"; };
 		0F0F54AC16EEA35000A96F38 /* grass.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = grass.jpg; sourceTree = "<group>"; };
 		0F0F54B016EEA3A500A96F38 /* vertex.glsl */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = vertex.glsl; path = ../src/vertex.glsl; sourceTree = "<group>"; };
+		0F0F54B216EEA8A400A96F38 /* frag.glsl */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = frag.glsl; path = ../src/frag.glsl; sourceTree = "<group>"; };
+		0F0F54B416EEBA8000A96F38 /* HeightMap.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = HeightMap.cpp; path = ../src/HeightMap.cpp; sourceTree = "<group>"; };
+		0F0F54B516EEBA8000A96F38 /* HeightMap.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = HeightMap.h; path = ../src/HeightMap.h; sourceTree = "<group>"; };
+		0F0F54B716EECE2700A96F38 /* rock.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = rock.JPG; path = ../resources/rock.JPG; sourceTree = "<group>"; };
+		0F0F54BA16EED0A900A96F38 /* grass.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = grass.jpg; path = ../resources/grass.jpg; sourceTree = "<group>"; };
+		0F0F54BB16EED0A900A96F38 /* rock.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = rock.JPG; sourceTree = "<group>"; };
 		1058C7A1FEA54F0111CA2CBB /* Cocoa.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Cocoa.framework; path = /System/Library/Frameworks/Cocoa.framework; sourceTree = "<absolute>"; };
 		13E42FB307B3F0F600E4EEF1 /* CoreData.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreData.framework; path = /System/Library/Frameworks/CoreData.framework; sourceTree = "<absolute>"; };
 		29B97324FDCFA39411CA2CEA /* AppKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AppKit.framework; path = /System/Library/Frameworks/AppKit.framework; sourceTree = "<absolute>"; };
@@ -75,6 +84,7 @@
 		080E96DDFE201D6D7F000001 /* Source */ = {
 			isa = PBXGroup;
 			children = (
+				0F0F54B416EEBA8000A96F38 /* HeightMap.cpp */,
 				0F0F54AB16EEA35000A96F38 /* resources */,
 				0F0F54A416EE53B900A96F38 /* WorldMesh.cpp */,
 				00BAE6590E7ED9C10018A608 /* RenderingWorldApp.cpp */,
@@ -86,6 +96,15 @@
 			isa = PBXGroup;
 			children = (
 				0F0F54AC16EEA35000A96F38 /* grass.jpg */,
+			);
+			name = resources;
+			path = ../resources;
+			sourceTree = "<group>";
+		};
+		0F0F54B916EED0A900A96F38 /* resources */ = {
+			isa = PBXGroup;
+			children = (
+				0F0F54BB16EED0A900A96F38 /* rock.JPG */,
 			);
 			name = resources;
 			path = ../resources;
@@ -142,6 +161,7 @@
 			isa = PBXGroup;
 			children = (
 				0F0F54A516EE53B900A96F38 /* WorldMesh.h */,
+				0F0F54B516EEBA8000A96F38 /* HeightMap.h */,
 				32CA4F630368D1EE00C91783 /* RenderingWorld_Prefix.pch */,
 			);
 			name = Headers;
@@ -150,8 +170,11 @@
 		29B97317FDCFA39411CA2CEA /* Resources */ = {
 			isa = PBXGroup;
 			children = (
+				0F0F54BA16EED0A900A96F38 /* grass.jpg */,
+				0F0F54B916EED0A900A96F38 /* resources */,
+				0F0F54B716EECE2700A96F38 /* rock.JPG */,
+				0F0F54B216EEA8A400A96F38 /* frag.glsl */,
 				0F0F54B016EEA3A500A96F38 /* vertex.glsl */,
-				0F0F54A716EE6FB900A96F38 /* grass.jpg */,
 				8D1107310486CEB800E47090 /* Info.plist */,
 				00CCAF14116A9FEE008396D5 /* CinderApp.icns */,
 			);
@@ -218,9 +241,12 @@
 			buildActionMask = 2147483647;
 			files = (
 				00CCAF15116A9FEE008396D5 /* CinderApp.icns in Resources */,
-				0F0F54A816EE6FB900A96F38 /* grass.jpg in Resources */,
 				0F0F54AE16EEA35000A96F38 /* grass.jpg in Resources */,
 				0F0F54B116EEA3A500A96F38 /* vertex.glsl in Resources */,
+				0F0F54B316EEA8A400A96F38 /* frag.glsl in Resources */,
+				0F0F54B816EECE2700A96F38 /* rock.JPG in Resources */,
+				0F0F54BC16EED0A900A96F38 /* grass.jpg in Resources */,
+				0F0F54BD16EED0A900A96F38 /* rock.JPG in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -233,6 +259,7 @@
 			files = (
 				00BAE65A0E7ED9C10018A608 /* RenderingWorldApp.cpp in Sources */,
 				0F0F54A616EE53B900A96F38 /* WorldMesh.cpp in Sources */,
+				0F0F54B616EEBA8000A96F38 /* HeightMap.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

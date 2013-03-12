@@ -63,7 +63,7 @@ void RenderingWorldApp::update()
 
 void RenderingWorldApp::draw()
 {
-    gl::clear();
+    gl::clear(Color(1.0f, 1.0f, 1.0f));
     gl::enableDepthWrite();
 	gl::enableDepthRead();
 	gl::enableAlphaBlending();

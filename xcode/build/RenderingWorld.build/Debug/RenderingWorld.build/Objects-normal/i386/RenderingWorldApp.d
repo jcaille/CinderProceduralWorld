@@ -496,6 +496,8 @@ dependencies: \
   ../../../../../../../Applications/Cinder/include/cinder/Perlin.h \
   ../../../../../../../Applications/Cinder/include/cinder/params/Params.h \
   /Users/jean/Dropbox/1_CURRENT/INF584-Rendering/RenderingWorld/xcode/../src/WorldMesh.h \
+  /Users/jean/Dropbox/1_CURRENT/INF584-Rendering/RenderingWorld/xcode/../src/HeightMap.h \
   ../../../../../../../Applications/Cinder/include/cinder/TriMesh.h \
   ../../../../../../../Applications/Cinder/include/cinder/DataTarget.h \
-  ../../../../../../../Applications/Cinder/include/cinder/gl/Texture.h
+  ../../../../../../../Applications/Cinder/include/cinder/gl/Texture.h \
+  ../../../../../../../Applications/Cinder/include/cinder/gl/GlslProg.h

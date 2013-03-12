@@ -42,30 +42,16 @@ dependencies: \
   ../../../../../../../Applications/Cinder/boost/boost/smart_ptr/detail/operator_bool.hpp \
   ../../../../../../../Applications/Cinder/include/cinder/Vector.h \
   ../../../../../../../Applications/Cinder/include/cinder/CinderMath.h \
-  ../../../../../../../Applications/Cinder/include/cinder/TriMesh.h \
-  ../../../../../../../Applications/Cinder/include/cinder/AxisAlignedBox.h \
-  ../../../../../../../Applications/Cinder/include/cinder/Matrix.h \
-  ../../../../../../../Applications/Cinder/include/cinder/Matrix22.h \
-  ../../../../../../../Applications/Cinder/include/cinder/MatrixAffine2.h \
-  ../../../../../../../Applications/Cinder/include/cinder/Matrix33.h \
-  ../../../../../../../Applications/Cinder/include/cinder/Matrix44.h \
-  ../../../../../../../Applications/Cinder/include/cinder/MatrixAlgo.h \
-  ../../../../../../../Applications/Cinder/include/cinder/Ray.h \
-  ../../../../../../../Applications/Cinder/include/cinder/DataSource.h \
-  ../../../../../../../Applications/Cinder/include/cinder/Url.h \
-  ../../../../../../../Applications/Cinder/include/cinder/Stream.h \
-  ../../../../../../../Applications/Cinder/include/cinder/Buffer.h \
-  ../../../../../../../Applications/Cinder/include/cinder/Exception.h \
-  ../../../../../../../Applications/Cinder/include/cinder/Filesystem.h \
-  ../../../../../../../Applications/Cinder/boost/boost/filesystem.hpp \
-  ../../../../../../../Applications/Cinder/boost/boost/filesystem/v3/config.hpp \
-  ../../../../../../../Applications/Cinder/boost/boost/system/api_config.hpp \
-  ../../../../../../../Applications/Cinder/boost/boost/config/auto_link.hpp \
-  ../../../../../../../Applications/Cinder/boost/boost/filesystem/v3/path.hpp \
-  ../../../../../../../Applications/Cinder/boost/boost/filesystem/v3/path_traits.hpp \
-  ../../../../../../../Applications/Cinder/boost/boost/utility/enable_if.hpp \
-  ../../../../../../../Applications/Cinder/boost/boost/type_traits/is_array.hpp \
-  ../../../../../../../Applications/Cinder/boost/boost/type_traits/config.hpp \
+  /Users/jean/Dropbox/1_CURRENT/INF584-Rendering/RenderingWorld/xcode/../src/HeightMap.h \
+  ../../../../../../../Applications/Cinder/include/cinder/Channel.h \
+  ../../../../../../../Applications/Cinder/include/cinder/Area.h \
+  ../../../../../../../Applications/Cinder/boost/boost/rational.hpp \
+  ../../../../../../../Applications/Cinder/boost/boost/operators.hpp \
+  ../../../../../../../Applications/Cinder/boost/boost/iterator.hpp \
+  ../../../../../../../Applications/Cinder/boost/boost/call_traits.hpp \
+  ../../../../../../../Applications/Cinder/boost/boost/detail/call_traits.hpp \
+  ../../../../../../../Applications/Cinder/boost/boost/type_traits/is_arithmetic.hpp \
+  ../../../../../../../Applications/Cinder/boost/boost/type_traits/is_integral.hpp \
   ../../../../../../../Applications/Cinder/boost/boost/type_traits/detail/bool_trait_def.hpp \
   ../../../../../../../Applications/Cinder/boost/boost/type_traits/detail/template_arity_spec.hpp \
   ../../../../../../../Applications/Cinder/boost/boost/mpl/int.hpp \
@@ -112,6 +98,47 @@ dependencies: \
   ../../../../../../../Applications/Cinder/boost/boost/mpl/integral_c_fwd.hpp \
   ../../../../../../../Applications/Cinder/boost/boost/mpl/aux_/lambda_support.hpp \
   ../../../../../../../Applications/Cinder/boost/boost/type_traits/detail/bool_trait_undef.hpp \
+  ../../../../../../../Applications/Cinder/boost/boost/type_traits/is_float.hpp \
+  ../../../../../../../Applications/Cinder/boost/boost/type_traits/detail/ice_or.hpp \
+  ../../../../../../../Applications/Cinder/boost/boost/type_traits/is_pointer.hpp \
+  ../../../../../../../Applications/Cinder/boost/boost/type_traits/is_member_pointer.hpp \
+  ../../../../../../../Applications/Cinder/boost/boost/type_traits/config.hpp \
+  ../../../../../../../Applications/Cinder/boost/boost/type_traits/is_member_function_pointer.hpp \
+  ../../../../../../../Applications/Cinder/boost/boost/type_traits/detail/is_mem_fun_pointer_impl.hpp \
+  ../../../../../../../Applications/Cinder/boost/boost/type_traits/remove_cv.hpp \
+  ../../../../../../../Applications/Cinder/boost/boost/type_traits/broken_compiler_spec.hpp \
+  ../../../../../../../Applications/Cinder/boost/boost/type_traits/detail/cv_traits_impl.hpp \
+  ../../../../../../../Applications/Cinder/boost/boost/type_traits/detail/type_trait_def.hpp \
+  ../../../../../../../Applications/Cinder/boost/boost/type_traits/detail/type_trait_undef.hpp \
+  ../../../../../../../Applications/Cinder/boost/boost/type_traits/detail/ice_and.hpp \
+  ../../../../../../../Applications/Cinder/boost/boost/type_traits/detail/ice_not.hpp \
+  ../../../../../../../Applications/Cinder/boost/boost/math/common_factor_rt.hpp \
+  ../../../../../../../Applications/Cinder/boost/boost/math_fwd.hpp \
+  ../../../../../../../Applications/Cinder/boost/boost/limits.hpp \
+  ../../../../../../../Applications/Cinder/boost/boost/static_assert.hpp \
+  ../../../../../../../Applications/Cinder/include/cinder/TriMesh.h \
+  ../../../../../../../Applications/Cinder/include/cinder/AxisAlignedBox.h \
+  ../../../../../../../Applications/Cinder/include/cinder/Matrix.h \
+  ../../../../../../../Applications/Cinder/include/cinder/Matrix22.h \
+  ../../../../../../../Applications/Cinder/include/cinder/MatrixAffine2.h \
+  ../../../../../../../Applications/Cinder/include/cinder/Matrix33.h \
+  ../../../../../../../Applications/Cinder/include/cinder/Matrix44.h \
+  ../../../../../../../Applications/Cinder/include/cinder/MatrixAlgo.h \
+  ../../../../../../../Applications/Cinder/include/cinder/Ray.h \
+  ../../../../../../../Applications/Cinder/include/cinder/DataSource.h \
+  ../../../../../../../Applications/Cinder/include/cinder/Url.h \
+  ../../../../../../../Applications/Cinder/include/cinder/Stream.h \
+  ../../../../../../../Applications/Cinder/include/cinder/Buffer.h \
+  ../../../../../../../Applications/Cinder/include/cinder/Exception.h \
+  ../../../../../../../Applications/Cinder/include/cinder/Filesystem.h \
+  ../../../../../../../Applications/Cinder/boost/boost/filesystem.hpp \
+  ../../../../../../../Applications/Cinder/boost/boost/filesystem/v3/config.hpp \
+  ../../../../../../../Applications/Cinder/boost/boost/system/api_config.hpp \
+  ../../../../../../../Applications/Cinder/boost/boost/config/auto_link.hpp \
+  ../../../../../../../Applications/Cinder/boost/boost/filesystem/v3/path.hpp \
+  ../../../../../../../Applications/Cinder/boost/boost/filesystem/v3/path_traits.hpp \
+  ../../../../../../../Applications/Cinder/boost/boost/utility/enable_if.hpp \
+  ../../../../../../../Applications/Cinder/boost/boost/type_traits/is_array.hpp \
   ../../../../../../../Applications/Cinder/boost/boost/type_traits/decay.hpp \
   ../../../../../../../Applications/Cinder/boost/boost/type_traits/is_function.hpp \
   ../../../../../../../Applications/Cinder/boost/boost/type_traits/is_reference.hpp \
@@ -119,18 +146,12 @@ dependencies: \
   ../../../../../../../Applications/Cinder/boost/boost/type_traits/is_rvalue_reference.hpp \
   ../../../../../../../Applications/Cinder/boost/boost/type_traits/ice.hpp \
   ../../../../../../../Applications/Cinder/boost/boost/type_traits/detail/yes_no_type.hpp \
-  ../../../../../../../Applications/Cinder/boost/boost/type_traits/detail/ice_or.hpp \
-  ../../../../../../../Applications/Cinder/boost/boost/type_traits/detail/ice_and.hpp \
-  ../../../../../../../Applications/Cinder/boost/boost/type_traits/detail/ice_not.hpp \
   ../../../../../../../Applications/Cinder/boost/boost/type_traits/detail/ice_eq.hpp \
   ../../../../../../../Applications/Cinder/boost/boost/type_traits/detail/false_result.hpp \
   ../../../../../../../Applications/Cinder/boost/boost/type_traits/detail/is_function_ptr_helper.hpp \
   ../../../../../../../Applications/Cinder/boost/boost/type_traits/remove_bounds.hpp \
-  ../../../../../../../Applications/Cinder/boost/boost/type_traits/detail/type_trait_def.hpp \
-  ../../../../../../../Applications/Cinder/boost/boost/type_traits/detail/type_trait_undef.hpp \
   ../../../../../../../Applications/Cinder/boost/boost/type_traits/add_pointer.hpp \
   ../../../../../../../Applications/Cinder/boost/boost/type_traits/remove_reference.hpp \
-  ../../../../../../../Applications/Cinder/boost/boost/type_traits/broken_compiler_spec.hpp \
   ../../../../../../../Applications/Cinder/boost/boost/mpl/eval_if.hpp \
   ../../../../../../../Applications/Cinder/boost/boost/mpl/if.hpp \
   ../../../../../../../Applications/Cinder/boost/boost/mpl/aux_/value_wknd.hpp \
@@ -171,8 +192,6 @@ dependencies: \
   ../../../../../../../Applications/Cinder/boost/boost/mpl/identity.hpp \
   ../../../../../../../Applications/Cinder/boost/boost/system/error_code.hpp \
   ../../../../../../../Applications/Cinder/boost/boost/system/config.hpp \
-  ../../../../../../../Applications/Cinder/boost/boost/operators.hpp \
-  ../../../../../../../Applications/Cinder/boost/boost/iterator.hpp \
   ../../../../../../../Applications/Cinder/boost/boost/noncopyable.hpp \
   ../../../../../../../Applications/Cinder/boost/boost/cerrno.hpp \
   ../../../../../../../Applications/Cinder/boost/boost/config/abi_prefix.hpp \
@@ -191,7 +210,6 @@ dependencies: \
   ../../../../../../../Applications/Cinder/boost/boost/type_traits/intrinsics.hpp \
   ../../../../../../../Applications/Cinder/boost/boost/type_traits/is_same.hpp \
   ../../../../../../../Applications/Cinder/boost/boost/type_traits/is_volatile.hpp \
-  ../../../../../../../Applications/Cinder/boost/boost/type_traits/detail/cv_traits_impl.hpp \
   ../../../../../../../Applications/Cinder/boost/boost/type_traits/is_abstract.hpp \
   ../../../../../../../Applications/Cinder/boost/boost/iterator/detail/config_def.hpp \
   ../../../../../../../Applications/Cinder/boost/boost/iterator/detail/config_undef.hpp \
@@ -212,16 +230,10 @@ dependencies: \
   ../../../../../../../Applications/Cinder/boost/boost/mpl/aux_/arg_typedef.hpp \
   ../../../../../../../Applications/Cinder/boost/boost/mpl/aux_/preprocessed/gcc/arg.hpp \
   ../../../../../../../Applications/Cinder/boost/boost/mpl/aux_/preprocessed/gcc/placeholders.hpp \
-  ../../../../../../../Applications/Cinder/boost/boost/static_assert.hpp \
   ../../../../../../../Applications/Cinder/boost/boost/mpl/and.hpp \
   ../../../../../../../Applications/Cinder/boost/boost/mpl/aux_/preprocessed/gcc/and.hpp \
   ../../../../../../../Applications/Cinder/boost/boost/type_traits/is_const.hpp \
   ../../../../../../../Applications/Cinder/boost/boost/detail/indirect_traits.hpp \
-  ../../../../../../../Applications/Cinder/boost/boost/type_traits/is_pointer.hpp \
-  ../../../../../../../Applications/Cinder/boost/boost/type_traits/is_member_pointer.hpp \
-  ../../../../../../../Applications/Cinder/boost/boost/type_traits/is_member_function_pointer.hpp \
-  ../../../../../../../Applications/Cinder/boost/boost/type_traits/detail/is_mem_fun_pointer_impl.hpp \
-  ../../../../../../../Applications/Cinder/boost/boost/type_traits/remove_cv.hpp \
   ../../../../../../../Applications/Cinder/boost/boost/type_traits/is_class.hpp \
   ../../../../../../../Applications/Cinder/boost/boost/type_traits/remove_pointer.hpp \
   ../../../../../../../Applications/Cinder/boost/boost/iterator/detail/enable_if.hpp \
@@ -231,9 +243,6 @@ dependencies: \
   ../../../../../../../Applications/Cinder/boost/boost/type_traits/is_pod.hpp \
   ../../../../../../../Applications/Cinder/boost/boost/type_traits/is_void.hpp \
   ../../../../../../../Applications/Cinder/boost/boost/type_traits/is_scalar.hpp \
-  ../../../../../../../Applications/Cinder/boost/boost/type_traits/is_arithmetic.hpp \
-  ../../../../../../../Applications/Cinder/boost/boost/type_traits/is_integral.hpp \
-  ../../../../../../../Applications/Cinder/boost/boost/type_traits/is_float.hpp \
   ../../../../../../../Applications/Cinder/boost/boost/type_traits/is_enum.hpp \
   ../../../../../../../Applications/Cinder/boost/boost/mpl/always.hpp \
   ../../../../../../../Applications/Cinder/boost/boost/mpl/apply.hpp \
@@ -289,7 +298,6 @@ dependencies: \
   ../../../../../../../Applications/Cinder/boost/boost/iostreams/detail/config/wide_streams.hpp \
   ../../../../../../../Applications/Cinder/boost/boost/iostreams/positioning.hpp \
   ../../../../../../../Applications/Cinder/boost/boost/integer_traits.hpp \
-  ../../../../../../../Applications/Cinder/boost/boost/limits.hpp \
   ../../../../../../../Applications/Cinder/boost/boost/iostreams/detail/config/codecvt.hpp \
   ../../../../../../../Applications/Cinder/boost/boost/iostreams/detail/config/fpos.hpp \
   ../../../../../../../Applications/Cinder/boost/boost/iostreams/detail/config/disable_warnings.hpp \
@@ -433,8 +441,6 @@ dependencies: \
   ../../../../../../../Applications/Cinder/boost/boost/iostreams/get.hpp \
   ../../../../../../../Applications/Cinder/boost/boost/iostreams/put.hpp \
   ../../../../../../../Applications/Cinder/boost/boost/iostreams/detail/double_object.hpp \
-  ../../../../../../../Applications/Cinder/boost/boost/call_traits.hpp \
-  ../../../../../../../Applications/Cinder/boost/boost/detail/call_traits.hpp \
   ../../../../../../../Applications/Cinder/boost/boost/iostreams/detail/push.hpp \
   ../../../../../../../Applications/Cinder/boost/boost/iostreams/detail/adapter/range_adapter.hpp \
   ../../../../../../../Applications/Cinder/boost/boost/iostreams/pipeline.hpp \
@@ -467,10 +473,6 @@ dependencies: \
   ../../../../../../../Applications/Cinder/boost/boost/preprocessor/seq/to_array.hpp \
   ../../../../../../../Applications/Cinder/boost/boost/preprocessor/seq/to_tuple.hpp \
   ../../../../../../../Applications/Cinder/include/cinder/Rect.h \
-  ../../../../../../../Applications/Cinder/include/cinder/Area.h \
-  ../../../../../../../Applications/Cinder/boost/boost/rational.hpp \
-  ../../../../../../../Applications/Cinder/boost/boost/math/common_factor_rt.hpp \
-  ../../../../../../../Applications/Cinder/boost/boost/math_fwd.hpp \
   ../../../../../../../Applications/Cinder/include/cinder/gl/Texture.h \
   ../../../../../../../Applications/Cinder/include/cinder/gl/gl.h \
   ../../../../../../../Applications/Cinder/include/cinder/Quaternion.h \
@@ -480,9 +482,9 @@ dependencies: \
   ../../../../../../../Applications/Cinder/include/cinder/BSpline.h \
   ../../../../../../../Applications/Cinder/include/cinder/PolyLine.h \
   ../../../../../../../Applications/Cinder/include/cinder/Surface.h \
-  ../../../../../../../Applications/Cinder/include/cinder/Channel.h \
   ../../../../../../../Applications/Cinder/boost/boost/logic/tribool.hpp \
   ../../../../../../../Applications/Cinder/boost/boost/logic/tribool_fwd.hpp \
+  ../../../../../../../Applications/Cinder/include/cinder/gl/GlslProg.h \
   ../../../../../../../Applications/Cinder/include/cinder/app/AppBasic.h \
   ../../../../../../../Applications/Cinder/include/cinder/app/App.h \
   ../../../../../../../Applications/Cinder/include/cinder/app/Renderer.h \

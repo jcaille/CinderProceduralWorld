@@ -11,6 +11,7 @@
 
 #include <iostream>
 #include "cinder/Perlin.h"
+#include "HeightMap.h"
 #include "cinder/TriMesh.h"
 #include "cinder/Vector.h"
 #include "cinder/gl/Texture.h"
@@ -25,25 +26,17 @@ class WorldMesh{
     void update();
     void draw();
     void loadShader();
-    cinder::Vec3f pointAt(float x, float y);
     
 //    VARIABLES
     int size ;
     int resolution ;
     float step ;
-    
-    cinder::Perlin roughHeightMap;
-    cinder::Perlin fineHeightMap ;
-    cinder::Perlin textureHeightMap ;
-    
-    float roughHeightMultiplicator ;
-    float fineHeightMultiplicator ;
-    
-    float limitWaterGrass ;
-    float limitGrassRock ;
+    PerlinHeightMap heightMap ;
     
     cinder::TriMesh mesh ;
-    cinder::gl::Texture texture ;
+    cinder::gl::Texture grassTexture ;
+    cinder::gl::Texture rockTexture ;
+    cinder::gl::Texture heightTexture ;
     
     cinder::gl::GlslProg vertexShader;
 };

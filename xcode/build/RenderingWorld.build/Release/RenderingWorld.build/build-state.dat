@@ -1,0 +1,279 @@
+TRenderingWorld
+v5
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/jean/Dropbox/1_CURRENT/INF584-Rendering/RenderingWorld/xcode/./build/Release/RenderingWorld.app/Contents/Info.plist Info.plist
+cCpResource CinderApp.icns ./build/Release/RenderingWorld.app/Contents/Resources/CinderApp.icns
+cCpResource ../resources/grass.jpg ./build/Release/RenderingWorld.app/Contents/Resources/grass.jpg
+cCpResource ../resources/grass.jpg ./build/Release/RenderingWorld.app/Contents/Resources/grass.jpg
+cCpResource ../src/vertex.glsl ./build/Release/RenderingWorld.app/Contents/Resources/vertex.glsl
+cCpResource ../src/frag.glsl ./build/Release/RenderingWorld.app/Contents/Resources/frag.glsl
+cProcessPCH++ /var/folders/xx/xwgzqgbs1x57ccygtc3b13200000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/RenderingWorld_Prefix-cvtwvslnuboavtfzxcltwbxofkqw/RenderingWorld_Prefix.pch.pth RenderingWorld_Prefix.pch normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC ./build/RenderingWorld.build/Release/RenderingWorld.build/Objects-normal/i386/RenderingWorldApp.o /Users/jean/Dropbox/1_CURRENT/INF584-Rendering/RenderingWorld/xcode/../src/RenderingWorldApp.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC ./build/RenderingWorld.build/Release/RenderingWorld.build/Objects-normal/i386/WorldMesh.o /Users/jean/Dropbox/1_CURRENT/INF584-Rendering/RenderingWorld/xcode/../src/WorldMesh.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+
+N/System/Library/Frameworks/Accelerate.framework/Accelerate
+c0000000050671C0700000000000064D0
+t1348934663
+s25808
+
+N/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c000000005067FE6E00000000003AA4D0
+t1348992622
+s3843280
+
+N/System/Library/Frameworks/AudioUnit.framework/AudioUnit
+c000000005067FE6E000000000000C2D0
+t1348992622
+s49872
+
+N/System/Library/Frameworks/Carbon.framework/Carbon
+c0000000050671BF80000000000006530
+t1348934648
+s25904
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c0000000050671BF80000000000006560
+t1348934648
+s25952
+
+N/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/System/Library/Frameworks/CoreAudio.framework/CoreAudio
+c000000005067FE6E00000000001195D0
+t1348992622
+s1152464
+
+N/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+c0000000050671BFA000000000007CED0
+t1348934650
+s511696
+
+N/System/Library/Frameworks/OpenGL.framework/OpenGL
+c000000005051800B000000000002D360
+t1347518475
+s185184
+
+N/System/Library/Frameworks/QTKit.framework/QTKit
+c000000005051839200000000004B9FB0
+t1347519378
+s4956080
+
+N/System/Library/Frameworks/QuickTime.framework/QuickTime
+c0000000050518302000000000032B7E0
+t1347519234
+s3323872
+
+N/Users/jean/Dropbox/1_CURRENT/INF584-Rendering/RenderingWorld/xcode/../resources/grass.jpg
+c00000000513E355900000000000268FF
+t1363031385
+s157951
+
+N/Users/jean/Dropbox/1_CURRENT/INF584-Rendering/RenderingWorld/xcode/../src/RenderingWorldApp.cpp
+c00000000513E39AF0000000000000681
+t1363032495
+s1665
+
+N/Users/jean/Dropbox/1_CURRENT/INF584-Rendering/RenderingWorld/xcode/../src/WorldMesh.cpp
+c00000000513E74560000000000000ACC
+t1363047510
+s2764
+
+N/Users/jean/Dropbox/1_CURRENT/INF584-Rendering/RenderingWorld/xcode/../src/frag.glsl
+c00000000513E742500000000000003C5
+t1363047461
+s965
+
+N/Users/jean/Dropbox/1_CURRENT/INF584-Rendering/RenderingWorld/xcode/../src/vertex.glsl
+c00000000513E7136000000000000007D
+t1363046710
+s125
+
+N/Users/jean/Dropbox/1_CURRENT/INF584-Rendering/RenderingWorld/xcode/./build/Release/RenderingWorld.app
+t2
+s0
+
+N/Users/jean/Dropbox/1_CURRENT/INF584-Rendering/RenderingWorld/xcode/./build/Release/RenderingWorld.app/Contents/Info.plist
+t2
+s0
+
+N/Users/jean/Dropbox/1_CURRENT/INF584-Rendering/RenderingWorld/xcode/./build/Release/RenderingWorld.app/Contents/MacOS/RenderingWorld
+t2
+s0
+
+N/Users/jean/Dropbox/1_CURRENT/INF584-Rendering/RenderingWorld/xcode/./build/Release/RenderingWorld.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/jean/Dropbox/1_CURRENT/INF584-Rendering/RenderingWorld/xcode/./build/Release/RenderingWorld.app/Contents/Resources/CinderApp.icns
+t2
+s0
+
+N/Users/jean/Dropbox/1_CURRENT/INF584-Rendering/RenderingWorld/xcode/./build/Release/RenderingWorld.app/Contents/Resources/frag.glsl
+t2
+s0
+
+N/Users/jean/Dropbox/1_CURRENT/INF584-Rendering/RenderingWorld/xcode/./build/Release/RenderingWorld.app/Contents/Resources/grass.jpg
+t2
+s0
+
+N/Users/jean/Dropbox/1_CURRENT/INF584-Rendering/RenderingWorld/xcode/./build/Release/RenderingWorld.app/Contents/Resources/vertex.glsl
+t2
+s0
+
+N/Users/jean/Dropbox/1_CURRENT/INF584-Rendering/RenderingWorld/xcode/./build/RenderingWorld.build/Release/RenderingWorld.build/Objects-normal/i386/RenderingWorld.LinkFileList
+c00000000513E74560000000000000144
+t1363047510
+s324
+
+N/Users/jean/Dropbox/1_CURRENT/INF584-Rendering/RenderingWorld/xcode/./build/RenderingWorld.build/Release/RenderingWorld.build/Objects-normal/i386/RenderingWorldApp.o
+t2
+s0
+
+N/Users/jean/Dropbox/1_CURRENT/INF584-Rendering/RenderingWorld/xcode/./build/RenderingWorld.build/Release/RenderingWorld.build/Objects-normal/i386/WorldMesh.o
+t2
+s0
+
+N/Users/jean/Dropbox/1_CURRENT/INF584-Rendering/RenderingWorld/xcode/CinderApp.icns
+c00000000513DD309000000000001BEB5
+t1363006217
+s114357
+
+N/Users/jean/Dropbox/1_CURRENT/INF584-Rendering/RenderingWorld/xcode/RenderingWorld_Prefix.pch
+c00000000513DD3090000000000000093
+t1363006217
+s147
+i<Cocoa/Cocoa.h>
+
+N/var/folders/xx/xwgzqgbs1x57ccygtc3b13200000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/RenderingWorld_Prefix-cvtwvslnuboavtfzxcltwbxofkqw/RenderingWorld_Prefix.pch.pth
+t2
+s0
+
+NInfo.plist
+c00000000513DD3090000000000000354
+t1363006217
+s852
+
+CBuild AST from /Users/jean/Dropbox/1_CURRENT/INF584-Rendering/RenderingWorld/xcode/../src/RenderingWorldApp.cpp
+r0
+
+CBuild AST from /Users/jean/Dropbox/1_CURRENT/INF584-Rendering/RenderingWorld/xcode/../src/WorldMesh.cpp
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies05a29fd6abeeb641^390a14d7abeeb641^-181"Warning: Multiple build commands for output file /Users/jean/Dropbox/1_CURRENT/INF584-Rendering/RenderingWorld/xcode/./build/Release/RenderingWorld.app/Contents/Resources/grass.jpg1(21%IDEActivityLogMessage2@180"Warning: Multiple build commands for output file /Users/jean/Dropbox/1_CURRENT/INF584-Rendering/RenderingWorld/xcode/./build/Release/RenderingWorld.app/Contents/Resources/grass.jpg-384740310#18446744073709551615#0#-1#27"com.apple.dt.IDE.LogMessage-27"Dependency Analysis Warning--0#1#0#--18"Check dependencies36"4FA3746C-1F88-4461-A9CE-EC21A2673098-
+
+CCompileC ./build/RenderingWorld.build/Release/RenderingWorld.build/Objects-normal/i386/RenderingWorldApp.o /Users/jean/Dropbox/1_CURRENT/INF584-Rendering/RenderingWorld/xcode/../src/RenderingWorldApp.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s384740311.464493
+e384740315.480860
+r1
+xCompileC
+x./build/RenderingWorld.build/Release/RenderingWorld.build/Objects-normal/i386/RenderingWorldApp.o
+x/Users/jean/Dropbox/1_CURRENT/INF584-Rendering/RenderingWorld/xcode/../src/RenderingWorldApp.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection104"Compile /Users/jean/Dropbox/1_CURRENT/INF584-Rendering/RenderingWorld/xcode/../src/RenderingWorldApp.cpp4f0677d7abeeb641^b5197bdbabeeb641^---0#0#0#-19%DVTDocumentLocation2@112"file://localhost/Users/jean/Dropbox/1_CURRENT/INF584-Rendering/RenderingWorld/xcode/../src/RenderingWorldApp.cpp0000000000000000^3229"CompileC ./build/RenderingWorld.build/Release/RenderingWorld.build/Objects-normal/i386/RenderingWorldApp.o ../src/RenderingWorldApp.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jean/Dropbox/1_CURRENT/INF584-Rendering/RenderingWorld/xcode    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch i386 -fmessage-length=0 -Wno-trigraphs -fpascal-strings -O3 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -fasm-blocks -ffast-math -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.5 -Wno-sign-conversion -iquote /Users/jean/Dropbox/1_CURRENT/INF584-Rendering/RenderingWorld/xcode/./build/RenderingWorld.build/Release/RenderingWorld.build/RenderingWorld-generated-files.hmap -I/Users/jean/Dropbox/1_CURRENT/INF584-Rendering/RenderingWorld/xcode/./build/RenderingWorld.build/Release/RenderingWorld.build/RenderingWorld-own-target-headers.hmap -I/Users/jean/Dropbox/1_CURRENT/INF584-Rendering/RenderingWorld/xcode/./build/RenderingWorld.build/Release/RenderingWorld.build/RenderingWorld-all-target-headers.hmap -iquote /Users/jean/Dropbox/1_CURRENT/INF584-Rendering/RenderingWorld/xcode/./build/RenderingWorld.build/Release/RenderingWorld.build/RenderingWorld-project-headers.hmap -iquote../../../../../../../Applications/Cinder/include -iquote../include -I/Users/jean/Dropbox/1_CURRENT/INF584-Rendering/RenderingWorld/xcode/build/Release/include -I../../../../../../../Applications/Cinder/boost -I/Users/jean/Dropbox/1_CURRENT/INF584-Rendering/RenderingWorld/xcode/./build/RenderingWorld.build/Release/RenderingWorld.build/DerivedSources/i386 -I/Users/jean/Dropbox/1_CURRENT/INF584-Rendering/RenderingWorld/xcode/./build/RenderingWorld.build/Release/RenderingWorld.build/DerivedSources -F/Users/jean/Dropbox/1_CURRENT/INF584-Rendering/RenderingWorld/xcode/build/Release -include /var/folders/xx/xwgzqgbs1x57ccygtc3b13200000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/RenderingWorld_Prefix-cvtwvslnuboavtfzxcltwbxofkqw/RenderingWorld_Prefix.pch -MMD -MT dependencies -MF /Users/jean/Dropbox/1_CURRENT/INF584-Rendering/RenderingWorld/xcode/./build/RenderingWorld.build/Release/RenderingWorld.build/Objects-normal/i386/RenderingWorldApp.d --serialize-diagnostics /Users/jean/Dropbox/1_CURRENT/INF584-Rendering/RenderingWorld/xcode/./build/RenderingWorld.build/Release/RenderingWorld.build/Objects-normal/i386/RenderingWorldApp.dia -c /Users/jean/Dropbox/1_CURRENT/INF584-Rendering/RenderingWorld/xcode/../src/RenderingWorldApp.cpp -o /Users/jean/Dropbox/1_CURRENT/INF584-Rendering/RenderingWorld/xcode/./build/RenderingWorld.build/Release/RenderingWorld.build/Objects-normal/i386/RenderingWorldApp.o36"32A8E99F-0E1F-471F-BF4E-CB2015FA687C-
+
+CCompileC ./build/RenderingWorld.build/Release/RenderingWorld.build/Objects-normal/i386/WorldMesh.o /Users/jean/Dropbox/1_CURRENT/INF584-Rendering/RenderingWorld/xcode/../src/WorldMesh.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s384740311.464497
+e384740314.976844
+r0
+xCompileC
+x./build/RenderingWorld.build/Release/RenderingWorld.build/Objects-normal/i386/WorldMesh.o
+x/Users/jean/Dropbox/1_CURRENT/INF584-Rendering/RenderingWorld/xcode/../src/WorldMesh.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+o/Users/jean/Dropbox/1_CURRENT/INF584-Rendering/RenderingWorld/xcode/../src/WorldMesh.cpp:57:1: error: expected catch
+ovoid WorldMesh::setup(){
+o^
+o/Users/jean/Dropbox/1_CURRENT/INF584-Rendering/RenderingWorld/xcode/../src/WorldMesh.cpp:57:17: error: definition or redeclaration of 'setup' not allowed inside a function
+ovoid WorldMesh::setup(){
+o     ~~~~~~~~~~~^
+o/Users/jean/Dropbox/1_CURRENT/INF584-Rendering/RenderingWorld/xcode/../src/WorldMesh.cpp:57:24: error: expected ';' at end of declaration
+ovoid WorldMesh::setup(){
+o                       ^
+o                       ;
+o/Users/jean/Dropbox/1_CURRENT/INF584-Rendering/RenderingWorld/xcode/../src/WorldMesh.cpp:102:2: error: expected '}'
+o}
+o ^
+o/Users/jean/Dropbox/1_CURRENT/INF584-Rendering/RenderingWorld/xcode/../src/WorldMesh.cpp:41:29: note: to match this '{'
+ovoid WorldMesh::loadShader(){
+o                            ^
+o4 errors generated.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"Compile /Users/jean/Dropbox/1_CURRENT/INF584-Rendering/RenderingWorld/xcode/../src/WorldMesh.cpp3e0677d7abeeb641^5914fadaabeeb641^-893"/Users/jean/Dropbox/1_CURRENT/INF584-Rendering/RenderingWorld/xcode/../src/WorldMesh.cpp:57:1: error: expected catchvoid WorldMesh::setup(){^/Users/jean/Dropbox/1_CURRENT/INF584-Rendering/RenderingWorld/xcode/../src/WorldMesh.cpp:57:17: error: definition or redeclaration of 'setup' not allowed inside a functionvoid WorldMesh::setup(){     ~~~~~~~~~~~^/Users/jean/Dropbox/1_CURRENT/INF584-Rendering/RenderingWorld/xcode/../src/WorldMesh.cpp:57:24: error: expected ';' at end of declarationvoid WorldMesh::setup(){                       ^                       ;/Users/jean/Dropbox/1_CURRENT/INF584-Rendering/RenderingWorld/xcode/../src/WorldMesh.cpp:102:2: error: expected '}'} ^/Users/jean/Dropbox/1_CURRENT/INF584-Rendering/RenderingWorld/xcode/../src/WorldMesh.cpp:41:29: note: to match this '{'void WorldMesh::loadShader(){                            ^4 errors generated.4(36%IDEClangDiagnosticActivityLogMessage2@14"Expected catch-384740314#18446744073709551615#0#-2#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@95"file://localhost/Users/jean/Dropbox/1_CURRENT/INF584-Rendering/RenderingWorld/src/WorldMesh.cpp0000000000000000^56#0#56#0#1396#0#11"Parse Issue--2@68"Definition or redeclaration of 'setup' not allowed inside a function-384740314#18446744073709551615#0#-2#27"com.apple.dt.IDE.diagnostic3@95"file://localhost/Users/jean/Dropbox/1_CURRENT/INF584-Rendering/RenderingWorld/src/WorldMesh.cpp0000000000000000^56#16#56#16#1412#0#14"Semantic Issue1(3@95"file://localhost/Users/jean/Dropbox/1_CURRENT/INF584-Rendering/RenderingWorld/src/WorldMesh.cpp0000000000000000^56#5#56#16#1401#9#-2@34"Expected ';' at end of declaration-384740314#18446744073709551615#0#-2#27"com.apple.dt.IDE.diagnostic3@95"file://localhost/Users/jean/Dropbox/1_CURRENT/INF584-Rendering/RenderingWorld/src/WorldMesh.cpp0000000000000000^56#23#56#23#1419#0#11"Parse Issue1(3@95"file://localhost/Users/jean/Dropbox/1_CURRENT/INF584-Rendering/RenderingWorld/src/WorldMesh.cpp0000000000000000^56#23#56#23#1419#0#-2@12"Expected '}'-384740314#18446744073709551615#0#1(2@17"To match this '{'-384740314#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@95"file://localhost/Users/jean/Dropbox/1_CURRENT/INF584-Rendering/RenderingWorld/src/WorldMesh.cpp0000000000000000^40#28#40#28#842#0#21"Clang LLVM 1.0 Notice--2#27"com.apple.dt.IDE.diagnostic3@95"file://localhost/Users/jean/Dropbox/1_CURRENT/INF584-Rendering/RenderingWorld/src/WorldMesh.cpp0000000000000000^101#1#101#1#2763#0#11"Parse Issue--0#0#0#-19%DVTDocumentLocation4@104"file://localhost/Users/jean/Dropbox/1_CURRENT/INF584-Rendering/RenderingWorld/xcode/../src/WorldMesh.cpp0000000000000000^3181"CompileC ./build/RenderingWorld.build/Release/RenderingWorld.build/Objects-normal/i386/WorldMesh.o ../src/WorldMesh.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jean/Dropbox/1_CURRENT/INF584-Rendering/RenderingWorld/xcode    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch i386 -fmessage-length=0 -Wno-trigraphs -fpascal-strings -O3 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -fasm-blocks -ffast-math -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.5 -Wno-sign-conversion -iquote /Users/jean/Dropbox/1_CURRENT/INF584-Rendering/RenderingWorld/xcode/./build/RenderingWorld.build/Release/RenderingWorld.build/RenderingWorld-generated-files.hmap -I/Users/jean/Dropbox/1_CURRENT/INF584-Rendering/RenderingWorld/xcode/./build/RenderingWorld.build/Release/RenderingWorld.build/RenderingWorld-own-target-headers.hmap -I/Users/jean/Dropbox/1_CURRENT/INF584-Rendering/RenderingWorld/xcode/./build/RenderingWorld.build/Release/RenderingWorld.build/RenderingWorld-all-target-headers.hmap -iquote /Users/jean/Dropbox/1_CURRENT/INF584-Rendering/RenderingWorld/xcode/./build/RenderingWorld.build/Release/RenderingWorld.build/RenderingWorld-project-headers.hmap -iquote../../../../../../../Applications/Cinder/include -iquote../include -I/Users/jean/Dropbox/1_CURRENT/INF584-Rendering/RenderingWorld/xcode/build/Release/include -I../../../../../../../Applications/Cinder/boost -I/Users/jean/Dropbox/1_CURRENT/INF584-Rendering/RenderingWorld/xcode/./build/RenderingWorld.build/Release/RenderingWorld.build/DerivedSources/i386 -I/Users/jean/Dropbox/1_CURRENT/INF584-Rendering/RenderingWorld/xcode/./build/RenderingWorld.build/Release/RenderingWorld.build/DerivedSources -F/Users/jean/Dropbox/1_CURRENT/INF584-Rendering/RenderingWorld/xcode/build/Release -include /var/folders/xx/xwgzqgbs1x57ccygtc3b13200000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/RenderingWorld_Prefix-cvtwvslnuboavtfzxcltwbxofkqw/RenderingWorld_Prefix.pch -MMD -MT dependencies -MF /Users/jean/Dropbox/1_CURRENT/INF584-Rendering/RenderingWorld/xcode/./build/RenderingWorld.build/Release/RenderingWorld.build/Objects-normal/i386/WorldMesh.d --serialize-diagnostics /Users/jean/Dropbox/1_CURRENT/INF584-Rendering/RenderingWorld/xcode/./build/RenderingWorld.build/Release/RenderingWorld.build/Objects-normal/i386/WorldMesh.dia -c /Users/jean/Dropbox/1_CURRENT/INF584-Rendering/RenderingWorld/xcode/../src/WorldMesh.cpp -o /Users/jean/Dropbox/1_CURRENT/INF584-Rendering/RenderingWorld/xcode/./build/RenderingWorld.build/Release/RenderingWorld.build/Objects-normal/i386/WorldMesh.o36"B54286B9-C880-438E-B524-88FD9B61B188-
+
+CCpResource ../resources/grass.jpg ./build/Release/RenderingWorld.app/Contents/Resources/grass.jpg
+s384740311.418945
+e384740311.429848
+r1
+xCpResource
+x../resources/grass.jpg
+x./build/Release/RenderingWorld.app/Contents/Resources/grass.jpg
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection68"Copy ./build/Release/RenderingWorld.app/Contents/Resources/grass.jpgb0546bd7abeeb641^821a6ed7abeeb641^---0#0#0#-19%DVTDocumentLocation2@147"file://localhost/Users/jean/Dropbox/1_CURRENT/INF584-Rendering/RenderingWorld/xcode/./build/Release/RenderingWorld.app/Contents/Resources/grass.jpg000000000080d041^624"CpResource ../resources/grass.jpg ./build/Release/RenderingWorld.app/Contents/Resources/grass.jpg    cd /Users/jean/Dropbox/1_CURRENT/INF584-Rendering/RenderingWorld/xcode    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Users/jean/Dropbox/1_CURRENT/INF584-Rendering/RenderingWorld/xcode/../resources/grass.jpg /Users/jean/Dropbox/1_CURRENT/INF584-Rendering/RenderingWorld/xcode/./build/Release/RenderingWorld.app/Contents/Resources36"8C02EBBB-0E1B-4538-8050-E36D36873154-
+
+CCpResource ../src/frag.glsl ./build/Release/RenderingWorld.app/Contents/Resources/frag.glsl
+s384740311.429081
+e384740311.431955
+r1
+xCpResource
+x../src/frag.glsl
+x./build/Release/RenderingWorld.app/Contents/Resources/frag.glsl
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection68"Copy ./build/Release/RenderingWorld.app/Contents/Resources/frag.glsld8ef6dd7abeeb641^57946ed7abeeb641^---0#0#0#-19%DVTDocumentLocation2@147"file://localhost/Users/jean/Dropbox/1_CURRENT/INF584-Rendering/RenderingWorld/xcode/./build/Release/RenderingWorld.app/Contents/Resources/frag.glsl000000000080d041^612"CpResource ../src/frag.glsl ./build/Release/RenderingWorld.app/Contents/Resources/frag.glsl    cd /Users/jean/Dropbox/1_CURRENT/INF584-Rendering/RenderingWorld/xcode    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Users/jean/Dropbox/1_CURRENT/INF584-Rendering/RenderingWorld/xcode/../src/frag.glsl /Users/jean/Dropbox/1_CURRENT/INF584-Rendering/RenderingWorld/xcode/./build/Release/RenderingWorld.app/Contents/Resources36"0652B9DE-593B-4D53-ABFD-678B2CA32C46-
+
+CCpResource ../src/vertex.glsl ./build/Release/RenderingWorld.app/Contents/Resources/vertex.glsl
+s384740311.419177
+e384740311.430198
+r1
+xCpResource
+x../src/vertex.glsl
+x./build/Release/RenderingWorld.app/Contents/Resources/vertex.glsl
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection70"Copy ./build/Release/RenderingWorld.app/Contents/Resources/vertex.glsl24616bd7abeeb641^a22a6ed7abeeb641^---0#0#0#-19%DVTDocumentLocation2@149"file://localhost/Users/jean/Dropbox/1_CURRENT/INF584-Rendering/RenderingWorld/xcode/./build/Release/RenderingWorld.app/Contents/Resources/vertex.glsl000000000080d041^618"CpResource ../src/vertex.glsl ./build/Release/RenderingWorld.app/Contents/Resources/vertex.glsl    cd /Users/jean/Dropbox/1_CURRENT/INF584-Rendering/RenderingWorld/xcode    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Users/jean/Dropbox/1_CURRENT/INF584-Rendering/RenderingWorld/xcode/../src/vertex.glsl /Users/jean/Dropbox/1_CURRENT/INF584-Rendering/RenderingWorld/xcode/./build/Release/RenderingWorld.app/Contents/Resources36"63C8C8B3-446B-4760-8A0E-45FF13CA1118-
+
+CCpResource CinderApp.icns ./build/Release/RenderingWorld.app/Contents/Resources/CinderApp.icns
+s384740311.418273
+e384740311.427651
+r1
+xCpResource
+xCinderApp.icns
+x./build/Release/RenderingWorld.app/Contents/Resources/CinderApp.icns
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection73"Copy ./build/Release/RenderingWorld.app/Contents/Resources/CinderApp.icnsf92c6bd7abeeb641^b0906dd7abeeb641^---0#0#0#-19%DVTDocumentLocation2@152"file://localhost/Users/jean/Dropbox/1_CURRENT/INF584-Rendering/RenderingWorld/xcode/./build/Release/RenderingWorld.app/Contents/Resources/CinderApp.icns000000000080d041^613"CpResource CinderApp.icns ./build/Release/RenderingWorld.app/Contents/Resources/CinderApp.icns    cd /Users/jean/Dropbox/1_CURRENT/INF584-Rendering/RenderingWorld/xcode    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Users/jean/Dropbox/1_CURRENT/INF584-Rendering/RenderingWorld/xcode/CinderApp.icns /Users/jean/Dropbox/1_CURRENT/INF584-Rendering/RenderingWorld/xcode/./build/Release/RenderingWorld.app/Contents/Resources36"9C8C7D72-7733-4F0B-AA77-F52B256A488D-
+
+CLd /Users/jean/Dropbox/1_CURRENT/INF584-Rendering/RenderingWorld/xcode/./build/Release/RenderingWorld.app/Contents/MacOS/RenderingWorld normal i386
+r0
+
+CProcessInfoPlistFile /Users/jean/Dropbox/1_CURRENT/INF584-Rendering/RenderingWorld/xcode/./build/Release/RenderingWorld.app/Contents/Info.plist Info.plist
+s384740311.084201
+e384740311.409342
+r1
+xProcessInfoPlistFile
+x/Users/jean/Dropbox/1_CURRENT/INF584-Rendering/RenderingWorld/xcode/./build/Release/RenderingWorld.app/Contents/Info.plist
+xInfo.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Process Info.plist2aa715d7abeeb641^05df68d7abeeb641^---0#0#0#-19%DVTDocumentLocation2@94"file://localhost/Users/jean/Dropbox/1_CURRENT/INF584-Rendering/RenderingWorld/xcode/Info.plist0000000000000000^498"ProcessInfoPlistFile ./build/Release/RenderingWorld.app/Contents/Info.plist Info.plist    cd /Users/jean/Dropbox/1_CURRENT/INF584-Rendering/RenderingWorld/xcode    builtin-infoPlistUtility Info.plist -genpkginfo /Users/jean/Dropbox/1_CURRENT/INF584-Rendering/RenderingWorld/xcode/./build/Release/RenderingWorld.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/jean/Dropbox/1_CURRENT/INF584-Rendering/RenderingWorld/xcode/./build/Release/RenderingWorld.app/Contents/Info.plist36"5751F2AC-D456-4297-A1F0-ADAF25CBB079-
+
+CProcessPCH++ /Users/jean/Library/Developer/Xcode/DerivedData/RenderingWorld-fpbbvdpqjzollodwrplfumiwnmsa/Index/PrecompiledHeaders/RenderingWorld_Prefix-fosjpyiiaenkjjauzpuinqxaysdx_ast/RenderingWorld_Prefix.pch.pth RenderingWorld_Prefix.pch normal i386 c++ com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH++ /var/folders/xx/xwgzqgbs1x57ccygtc3b13200000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/RenderingWorld_Prefix-cvtwvslnuboavtfzxcltwbxofkqw/RenderingWorld_Prefix.pch.pth RenderingWorld_Prefix.pch normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s384740311.439987
+e384740311.457689
+r1
+xProcessPCH++
+x/var/folders/xx/xwgzqgbs1x57ccygtc3b13200000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/RenderingWorld_Prefix-cvtwvslnuboavtfzxcltwbxofkqw/RenderingWorld_Prefix.pch.pth
+xRenderingWorld_Prefix.pch
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection36"Precompile RenderingWorld_Prefix.pchd5ce70d7abeeb641^172c75d7abeeb641^---0#0#0#-19%DVTDocumentLocation2@109"file://localhost/Users/jean/Dropbox/1_CURRENT/INF584-Rendering/RenderingWorld/xcode/RenderingWorld_Prefix.pch0000000000000000^3154"ProcessPCH++ /var/folders/xx/xwgzqgbs1x57ccygtc3b13200000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/RenderingWorld_Prefix-cvtwvslnuboavtfzxcltwbxofkqw/RenderingWorld_Prefix.pch.pth RenderingWorld_Prefix.pch normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jean/Dropbox/1_CURRENT/INF584-Rendering/RenderingWorld/xcode    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++-header -arch i386 -fmessage-length=0 -Wno-trigraphs -fpascal-strings -O3 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -fasm-blocks -ffast-math -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.5 -Wno-sign-conversion -iquote /Users/jean/Dropbox/1_CURRENT/INF584-Rendering/RenderingWorld/xcode/./build/RenderingWorld.build/Release/RenderingWorld.build/RenderingWorld-generated-files.hmap -I/Users/jean/Dropbox/1_CURRENT/INF584-Rendering/RenderingWorld/xcode/./build/RenderingWorld.build/Release/RenderingWorld.build/RenderingWorld-own-target-headers.hmap -I/Users/jean/Dropbox/1_CURRENT/INF584-Rendering/RenderingWorld/xcode/./build/RenderingWorld.build/Release/RenderingWorld.build/RenderingWorld-all-target-headers.hmap -iquote /Users/jean/Dropbox/1_CURRENT/INF584-Rendering/RenderingWorld/xcode/./build/RenderingWorld.build/Release/RenderingWorld.build/RenderingWorld-project-headers.hmap -iquote../../../../../../../Applications/Cinder/include -iquote../include -I/Users/jean/Dropbox/1_CURRENT/INF584-Rendering/RenderingWorld/xcode/build/Release/include -I../../../../../../../Applications/Cinder/boost -I/Users/jean/Dropbox/1_CURRENT/INF584-Rendering/RenderingWorld/xcode/./build/RenderingWorld.build/Release/RenderingWorld.build/DerivedSources/i386 -I/Users/jean/Dropbox/1_CURRENT/INF584-Rendering/RenderingWorld/xcode/./build/RenderingWorld.build/Release/RenderingWorld.build/DerivedSources -F/Users/jean/Dropbox/1_CURRENT/INF584-Rendering/RenderingWorld/xcode/build/Release --serialize-diagnostics /var/folders/xx/xwgzqgbs1x57ccygtc3b13200000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/RenderingWorld_Prefix-cvtwvslnuboavtfzxcltwbxofkqw/RenderingWorld_Prefix.pch.dia -c /Users/jean/Dropbox/1_CURRENT/INF584-Rendering/RenderingWorld/xcode/RenderingWorld_Prefix.pch -o /var/folders/xx/xwgzqgbs1x57ccygtc3b13200000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/RenderingWorld_Prefix-cvtwvslnuboavtfzxcltwbxofkqw/RenderingWorld_Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/xx/xwgzqgbs1x57ccygtc3b13200000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/RenderingWorld_Prefix-cvtwvslnuboavtfzxcltwbxofkqw/RenderingWorld_Prefix.pch.d36"7479B8B1-A699-4226-ADFA-94F8EA92EC28-
+
+CTouch /Users/jean/Dropbox/1_CURRENT/INF584-Rendering/RenderingWorld/xcode/./build/Release/RenderingWorld.app
+r0
+
