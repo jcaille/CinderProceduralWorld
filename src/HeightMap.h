@@ -27,6 +27,11 @@ class PerlinHeightMap{
     //Variables
     int depth ;
     int channelSize ;
+    float textureScale ;
+    
+    float minimumHeight ;
+    float maximumHeight ;
+    
     vector<cinder::Perlin> harmonic ;
     vector<float> coefficient ;
     float coefficientSum ;
